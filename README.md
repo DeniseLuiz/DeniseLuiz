@@ -1,5 +1,5 @@
 ## Olá, meu nome é <strong>{Denise Luiz}!</strong>
-<center>
+
 ```js
 import Desenvolvedora from 'DeniseLuiz';
 
@@ -16,7 +16,6 @@ class SobreMim extends Desenvolvedor {
                      ]
 }
 ```
-</center>
 
 <p>🎓 **Mestre em Engenharia de Materiais** (USP) em transição de carreira;</p>
 
