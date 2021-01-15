@@ -17,9 +17,9 @@ class SobreMim extends Desenvolvedor {
 }
 ```
 
-<p>🎓 **Mestre em Engenharia de Materiais** (USP) em transição de carreira;</p>
+# 🎓 **Mestre em Engenharia de Materiais** (USP) em transição de carreira;
 
-<p>🚩 *Presto consultoria em TI para a área de canais cockpit do **Itaú**.*</p>
+# 🚩 *Presto consultoria em TI para a área de canais cockpit do **Itaú**.*
 
 
 ----
@@ -33,14 +33,12 @@ class SobreMim extends Desenvolvedor {
 [![DeniseLuiz](https://github-readme-stats.vercel.app/api/top-langs/?username=DeniseLuiz&hide=html&layout=compact&theme=dracula)](https://github.com/DeniseLuiz/)
 
 ---
-<p align="left">
-  ## Entre em contato comigo: ⤵️
-</p>
+## Entre em contato comigo: ⤵️
 
 <p align="left">
- <a href="#" alt="Gmail">
+ <a href="denisesantos.luiz@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=denisesantos.luiz@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/denisesl/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denisesl/" /></a>
 </p>  
