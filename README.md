@@ -32,7 +32,7 @@ class SobreMim extends Desenvolvedor {
 [![card](https://github-readme-stats.vercel.app/api?username=DeniseLuiz&theme=dracula)](https://github.com/DeniseLuiz/)<br>  
 [![DeniseLuiz](https://github-readme-stats.vercel.app/api/top-langs/?username=DeniseLuiz&hide=html&layout=compact&theme=dracula)](https://github.com/DeniseLuiz/)
 
-
+---
 <p align="left">
   ## Entre em contato comigo: ⤵️
 </p>
