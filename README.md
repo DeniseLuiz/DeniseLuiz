@@ -17,9 +17,9 @@ class SobreMim extends Desenvolvedor {
 }
 ```
 
-### 🎓 **Mestre em Engenharia de Materiais** (USP) em transição de carreira;
+#### 🎓 *Mestre em Engenharia de Materiais (USP) em transição de carreira*;
 
-### 🚩 *Presto consultoria em TI para a área de canais cockpit do **Itaú**.*
+#### 🚩 *Presto consultoria em TI para a área de canais cockpit do **Itaú**.*
 
 
 ----
