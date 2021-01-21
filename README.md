@@ -10,9 +10,9 @@ class SobreMim extends Desenvolvedor {
   local = 'São Paulo';
   area_atuacao  = 'Front-End, com aspiração à Full Stack e IA';
   caracteristicas  = [
-                        'adoro novos aprendizados', 
-                        'boa adaptabilidade', 
-                        'apaixonada por causas sociais ⚫🌈'
+                        'Adoro novos aprendizados', 
+                        'Boa adaptabilidade', 
+                        'Apaixonada por causas sociais ⚫🌈'
                      ]
 }
 ```
