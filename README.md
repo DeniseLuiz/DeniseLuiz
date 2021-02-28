@@ -14,13 +14,17 @@ class SobreMim extends Desenvolvedor {
                         'Boa adaptabilidade', 
                         'Apaixonada por causas sociais ⚫🌈'
                      ]
+    infos: {
+            carreira: "Mestre em Engenharia de Materiais (USP) em transição de carreira",
+            atuacao: "Presto consultoria em TI para a área de canais cockpit do **Itaú**"
+    }
 }
 
 
 ```
-##  *Mestre em Engenharia de Materiais (USP) em transição de carreira*;
+#####  *Mestre em Engenharia de Materiais (USP) em transição de carreira*;
 
-##  *Presto consultoria em TI para a área de canais cockpit do **Itaú**.*
+#####  *Presto consultoria em TI para a área de canais cockpit do **Itaú**.*
 
 ---
 
