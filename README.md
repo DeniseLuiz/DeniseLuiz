@@ -18,13 +18,13 @@ class SobreMim extends Desenvolvedor {
 
 
 ```
-####  *Mestre em Engenharia de Materiais (USP) em transição de carreira*;
+##  *Mestre em Engenharia de Materiais (USP) em transição de carreira*;
 
-####  *Presto consultoria em TI para a área de canais cockpit do **Itaú**.*
+##  *Presto consultoria em TI para a área de canais cockpit do **Itaú**.*
 
 ---
 
- Entre em contato comigo:   <span><a href="mailto:denisesantos.luiz@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=denisesantos.luiz@gmail.com" /></a>   <a href="https://www.linkedin.com/in/denisesl/" alt="Linkedin">
+ <span><a href="mailto:denisesantos.luiz@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=denisesantos.luiz@gmail.com" /></a>   <a href="https://www.linkedin.com/in/denisesl/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denisesl/" /></a></span>
 ```
 
