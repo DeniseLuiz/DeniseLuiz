@@ -16,12 +16,12 @@ class SobreMim extends Desenvolvedor {
                      ]
     infos: {
             carreira: "Mestre em Engenharia de Materiais (USP) em transição de carreira",
-            atuacao: "Presto consultoria em TI para a área de canais cockpit do **Itaú**"
+            atuacao: "Presto consultoria em TI para a área de canais cockpit do Itaú"
     }
 }
 
 
 ```
- <span><a href="#" alt="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?1=pt_BR&phone=5511957869980&text=Olá, Denise. Tudo bem?"/></a><a href="https://www.linkedin.com/in/denisesl/" alt="Linkedin"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denisesl/" /></a><a href="mailto:denisesantos.luiz@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=denisesantos.luiz@gmail.com" /></a></span>
+ <span><a href="#" alt="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?1=pt_BR&phone=5511957869980"/></a>   <a href="https://www.linkedin.com/in/denisesl/" alt="Linkedin"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denisesl/" /></a>   <a href="mailto:denisesantos.luiz@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=denisesantos.luiz@gmail.com" /></a></span>
 ```
 
