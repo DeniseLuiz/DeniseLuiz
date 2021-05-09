@@ -5,7 +5,7 @@ import Desenvolvedora from 'DeniseLuiz';
 
 class SobreMim extends Desenvolvedor {
   nome = 'Denise';
-  idade = '27 anos';
+  idade = '28 anos';
   trabalho = 'everis';
   local = 'São Paulo';
   area_atuacao  = 'Front-End, com aspiração à Full Stack e IA';
