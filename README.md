@@ -12,7 +12,7 @@
   <div align="center">
     <h3 align="center">
       <a href="https://www.linkedin.com/in/denisesl/" target="blank">
-    Connect</a> with me:</h3>
+    Conecte-se</a> comigo! Será um prazer tê-lá (o) em minha rede.</h3>
   </div>
 
 
